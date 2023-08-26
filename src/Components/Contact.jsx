@@ -1,6 +1,8 @@
 import React from 'react'
 import { useFormik } from 'formik'
 import {signUpSchema} from '../models'
+
+//formik initial values
 const initialValues={
   name:'',
   email:'',

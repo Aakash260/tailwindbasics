@@ -39,10 +39,10 @@ const Navbar = () => {
           </div>
           {/* rightnav */}
           <div className='flex gap-x-5 mr-4'>
-            <a href=""><i class="fa-brands fa-twitter"></i></a>
-            <a href=""><i class="fa-brands fa-facebook"></i></a>
-            <a href=""><i class="fa-brands fa-instagram"></i></a>
-            <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
+            
+            <a href="https://www.facebook.com/aakash.nirwan.52" target='_blank'><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://www.instagram.com/akash_nirwan26/" target='_blank'><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/aakash-nirwan-208865167/" target='_blank'><i class="fa-brands fa-linkedin-in"></i></a>
           </div>
         </div>
       </div>
@@ -66,10 +66,9 @@ const Navbar = () => {
             <Link to="portfolio">Portfolio</Link>
           </div>
           <div className='flex ml-4 gap-x-4'>
-            <a href="" className='p-3'><i class="fa-brands fa-twitter"></i></a>
-            <a href="" className='p-3'><i class="fa-brands fa-facebook"></i></a>
-            <a href="" className='p-3'><i class="fa-brands fa-instagram"></i></a>
-            <a href="" className='p-3'><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="https://www.facebook.com/aakash.nirwan.52" target='_blank'><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://www.instagram.com/akash_nirwan26/" target='_blank'><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/aakash-nirwan-208865167/" target='_blank'><i class="fa-brands fa-linkedin-in"></i></a>
           </div>
         </div>
       </div>
